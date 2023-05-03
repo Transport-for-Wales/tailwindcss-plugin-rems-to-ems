@@ -1,0 +1,19 @@
+{
+  "name": "tailwindcss-plugin-rems-to-ems",
+  "version": "1.0.0",
+  "description": "tailwind css plugin that converts rems spacing values to ems ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Transport-for-Wales/tailwindcss-plugin-rems-to-ems.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Transport-for-Wales/tailwindcss-plugin-rems-to-ems/issues"
+  },
+  "homepage": "https://github.com/Transport-for-Wales/tailwindcss-plugin-rems-to-ems#readme"
+}
