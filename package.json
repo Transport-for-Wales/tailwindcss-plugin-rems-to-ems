@@ -1,5 +1,5 @@
 {
-  "name": "tailwindcss-plugin-rems-to-ems",
+  "name": "@transport-for-wales/tailwindcss-plugin-rems-to-ems",
   "version": "1.0.0",
   "description": "tailwind css plugin that converts rems spacing values to ems ",
   "main": "index.js",
