@@ -4,8 +4,19 @@ TODO: add a description.
 
 ## Installation
 
-TODO.
+```
+npm i @transport-for-wales/tailwindcss-plugin-rems-to-ems
+```
 
 ## Usage
 
-TODO.
+Require the plugin within the `plugins` section of your `tailwind.config.js` file:
+
+```js
+{
+  // ...
+  plugins: [
+    require('@transport-for-wales/tailwindcss-plugin-rems-to-ems'),
+  ],
+}
+```
